@@ -1,0 +1,26 @@
+public class Programa {
+	
+	public static void main(String[] args) {
+		System.out.println("Olá mundo");
+	}
+}
+
+Claro! Vou explicar variáveis e fluxo no Java de forma simples para um iniciante.
+
+Variáveis:
+Uma variável no Java é como uma caixa imaginária em que você pode armazenar informações. Cada variável tem um nome e um tipo. O nome da variável é como você a chama, e o tipo especifica o tipo de dados que ela pode armazenar, como números inteiros, números decimais, texto, etc.
+
+Vamos supor que você precisa armazenar a idade de uma pessoa. Você pode criar uma variável chamada "idade" e atribuir um valor a ela, como 25. Então, sempre que você quiser se referir à idade, basta usar o nome da variável "idade".
+
+Fluxo:
+O fluxo em Java é como você controla a execução do seu programa. O código Java é lido linha por linha, mas às vezes você quer tomar decisões com base em certas condições ou repetir uma parte do código várias vezes.
+
+Um exemplo simples de fluxo é uma instrução "if" (se) que verifica se uma condição é verdadeira ou falsa. Por exemplo, você pode ter um código que verifica se uma pessoa é maior de idade antes de permitir que ela acesse determinado conteúdo. Se a condição for verdadeira, o código dentro do bloco "if" é executado, caso contrário, o código é ignorado.
+
+Outra estrutura de controle de fluxo comum é o loop "for", que permite repetir um bloco de código várias vezes. Por exemplo, se você quiser imprimir os números de 1 a 5, você pode usar um loop "for" para repetir a instrução de impressão cinco vezes.
+
+O fluxo é importante para controlar o comportamento do seu programa e fazer com que ele tome decisões ou execute determinadas ações com base em certas condições.
+
+Agora que você entende o básico sobre variáveis e fluxo, você pode começar a usá-los para criar programas simples. À medida que você ganha mais experiência, você aprenderá mais sobre os diferentes tipos de variáveis, estruturas de controle de fluxo e suas aplicações em programação.
+
+Lembre-se de praticar e experimentar para entender melhor como as variáveis e o fluxo funcionam no Java. Com o tempo, você se tornará mais confortável e poderá escrever programas mais complexos.

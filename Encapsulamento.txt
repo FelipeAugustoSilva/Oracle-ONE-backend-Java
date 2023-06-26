@@ -1,0 +1,20 @@
+Encapsulamento:
+- O encapsulamento é um conceito importante na programação orientada a objetos, como o Java. Ele nos ajuda a organizar e proteger nossos dados e comportamentos dentro de uma classe.
+
+Vamos usar uma analogia para entender melhor. Imagine que você tem uma caixa com algumas peças de LEGO dentro dela. Essa caixa é como uma classe no Java. Agora, você pode ter algumas peças especiais dentro da caixa que são importantes e precisam ser protegidas. Você não quer que qualquer pessoa mexa nessas peças ou as altere de forma incorreta. É aqui que o encapsulamento entra em jogo.
+
+No Java, você pode definir variáveis e métodos dentro de uma classe. O encapsulamento permite que você controle o acesso a essas variáveis e métodos, determinando quem pode ver ou modificar essas informações.
+
+Existem três níveis de acesso no encapsulamento do Java: public, private e protected.
+
+    Public: Se você declara uma variável ou método como público, eles podem ser acessados e usados por qualquer outra classe.
+
+    Private: Se você declara uma variável ou método como privado, eles só podem ser acessados e usados dentro da própria classe. Outras classes não têm acesso a eles.
+
+    Protected: O acesso protegido é semelhante ao acesso privado, mas permite que classes filhas (subclasses) acessem e usem as variáveis ou métodos protegidos.
+
+Ao usar o encapsulamento, você pode proteger seus dados importantes, garantindo que apenas o código autorizado possa modificá-los. Isso ajuda a evitar que dados sejam alterados acidentalmente ou de forma incorreta, o que poderia levar a erros ou comportamentos indesejados.
+
+Para implementar o encapsulamento, você precisa definir as variáveis como privadas e fornecer métodos públicos para acessar e modificar essas variáveis, se necessário. Esses métodos são chamados de "métodos getter" e "métodos setter". Os métodos getter são usados para obter o valor de uma variável privada, enquanto os métodos setter são usados para definir ou modificar o valor da variável privada.
+
+Em resumo, encapsulamento no Java é o processo de proteger e controlar o acesso aos dados e comportamentos de uma classe. Isso ajuda a garantir que apenas o código autorizado possa interagir com esses dados, melhorando a segurança e a organização do seu programa.
